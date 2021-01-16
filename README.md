@@ -2,7 +2,7 @@
 
 Para arrancar el proyecto se deberá:
 
-  - Desde terminal de Visual Studio Code o utilizando CMD ingresar a la carpeta backend y ejecutar:
+  - Desde una terminal de Visual Studio Code o utilizando el CMD ingresar a la carpeta backend y ejecutar:
  ```sh
 $  npm i
 ```
@@ -11,7 +11,7 @@ luego de haber terminado la instalación de módulos, ejecutar
 $ npm run dev
 ```
 
- -Desde otra terminal de Visual Studio Code  o utilizando CMD ingresar a la carpeta client y ejecutar:
+ -Desde otra terminal de Visual Studio Code  o utilizando el CMD ingresar a la carpeta client y ejecutar:
  ```sh
 $  npm i
 ```
