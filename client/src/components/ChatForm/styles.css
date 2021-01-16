@@ -1,0 +1,30 @@
+.bg-rosado {
+  background-color: rgb(230, 28, 136);
+}
+
+.bg-gris {
+    background-color: gainsboro;
+  }
+
+.avatarH {
+  height: 70px;
+  width: 70px;
+}
+
+.chatH {
+  height: 500px;
+}
+
+.card-body {
+  height: 430px;
+}
+
+@media screen and (max-width: 767.98px) {
+  .avatarH {
+    height: 100px;
+    width: 100px;
+  }
+}
+
+@media screen and (max-width: 575.98px) {
+}

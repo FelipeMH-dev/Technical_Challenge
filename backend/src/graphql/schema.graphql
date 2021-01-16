@@ -1,0 +1,28 @@
+type Query {
+  ping: String!
+  users: [User!]
+}
+
+type Mutation {
+  createUser(
+    
+    nombre: String!
+    segundoNombre: String!
+    apellidoPaterno: String!
+    apellidoMaterno: String!
+    fechaNacimiento:String!
+    email: String!
+    telefono: String!
+  ): User
+}
+
+type User {
+ id:ID!
+  nombre: String!
+  segundoNombre: String!
+  apellidoPaterno: String!
+  apellidoMaterno: String!
+  fechaNacimiento:String!
+  email: String!
+  telefono: String!
+}
