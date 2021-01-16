@@ -1,4 +1,4 @@
-# Technical_Challenge
+# Technical Challenge
 
 Para arrancar el proyecto se deberá:
 
